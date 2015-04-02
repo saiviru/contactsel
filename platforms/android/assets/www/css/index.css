@@ -1,0 +1,29 @@
+html,body,h1,div,li,ul,nav{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 20px;
+}
+
+#top{
+    background-color:darkcyan;
+    height:20%;
+    width:100%;
+}
+h1{
+    font-size: 1.5em;
+    color: whitesmoke;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    
+}
+
+#but{
+    align-self: center;
+    padding:15px;
+    background-color: aqua;
+    width: 50%;
+}
